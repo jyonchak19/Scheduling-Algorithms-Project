@@ -1,5 +1,5 @@
 # Scheduling-Algorithms-Project
-This project simulates and demonstrates teh functionality of the round robin, shortest remaining time, and feedback scheduling algorithms.
+This project simulates and demonstrates the functionality of the round robin, shortest remaining time, and feedback scheduling algorithms.
 It reads a file named jobs.txt to determine the name, start time, and duration of the jobs that it will be scheduling.
 A sample jobs.txt has been included in this repository.
 
